@@ -1,12 +1,12 @@
 [submodule "CoE-Backend"]
 	path = CoE-Backend
-	url = https://github.com/ep-code-box/CoE-Backend.git
+	url = https://github.com/HongGunKR/CoE-Backend.git
 [submodule "CoE-RagPipeline"]
 	path = CoE-RagPipeline
-	url = https://github.com/ep-code-box/CoE-RagPipeline.git
+	url = https://github.com/HongGunKR/CoE-RagPipeline.git
 [submodule "CoE-Agent"]
 	path = CoE-Agent
-	url = https://github.com/ep-code-box/CoE-Agent
+	url = https://github.com/HongGunKR/CoE-Agent.git
 [submodule "CoE-sllmBuilder"]
 	path = CoE-sllmBuilder
 	url = https://github.com/ep-code-box/CoE-sllmBuilder.git
